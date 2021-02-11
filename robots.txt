@@ -1,0 +1,23 @@
+User-agent: YandexBot
+Crawl-delay: 10
+Disallow: /views/
+Disallow: /error404.html
+Disallow: /profile.php
+Disallow: /admin.php
+Disallow: /editpost.php
+Disallow: /libs.php
+Disallow: /ajax.php
+Disallow: /connection.php
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /views/
+Disallow: /error404.html
+Disallow: /profile.php
+Disallow: /admin.php
+Disallow: /editpost.php
+Disallow: /libs.php
+Disallow: /ajax.php
+Disallow: /connection.php
+
+Sitemap: https://nurdaulet.tk/sitemap.xml
